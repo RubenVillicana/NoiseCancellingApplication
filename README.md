@@ -25,3 +25,5 @@ Users can use any audio to run the program. To demostrate its functionality, six
 The samples must be with extention ".wav" and the audio's name shoud be cahnged on MATLAB's scripts. 
 
 On the app, both approches can be found (same file for filtering and STFT application). 
+
+The ".prj" for the app is also included if the user wants to modify the parameters.
